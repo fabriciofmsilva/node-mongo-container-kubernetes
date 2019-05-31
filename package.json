@@ -1,0 +1,27 @@
+{
+  "name": "mongo-container-kubernetes",
+  "version": "1.0.0",
+  "description": "A Simple Node + MongoDB containers into Kubernets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciofmsilva/node-mongo-container-kubernetes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabriciofmsilva/node-mongo-container-kubernetes/issues"
+  },
+  "homepage": "https://github.com/fabriciofmsilva/node-mongo-container-kubernetes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
