@@ -25,5 +25,8 @@
     "ejs": "^2.6.1",
     "express": "^4.17.1",
     "mongoose": "^5.5.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
